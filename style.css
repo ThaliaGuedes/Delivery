@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,500&display=swap');
+
+body {
+    font-family: 'inter' sans-serif;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.Container h1 {
+    font-family: 'inter';
+    font-size: 60px;
+
+}
+.Container h2 {
+    font-family: 'inter';
+    font-size: 30px;
+}
+
+
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+
+}
+a {
+    color: black;
+    font-size: 25px;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-decoration: none;
+}
+img {
+    width: 500px;
+    height: 600px;
+    border-radius: 20%;
+}
+.imagem {
+    border-radius: 50%;
+    text-align: center;
+
+}
+.cardapio-img img{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+
+}
+.maps {
+    padding: 100px;
+    margin: 100px;
+    
+}
+.icones img{
+    width: 100px;
+    height: 80px;
+    border-radius: 60%;
+    padding: 6px;
+    align-items: center
+}
+footer {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
